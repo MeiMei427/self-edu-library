@@ -1,5 +1,6 @@
 # self-edu-library
-> An open-source library of toolkits, frameworks, methods, and strategies for [self-education](https://link.springer.com/book/10.1007/978-3-031-90675-6) (learning is initiated and guided by one's curiosity and exercised agency, rather than by uncritical compliance with externally imposed curricula or norms.)
+> An open-source library of toolkits, frameworks, methods, and strategies for [self-education](https://link.springer.com/book/10.1007/978-3-031-90675-6).
+> > Self-education: learning is initiated and guided by one's curiosity and exercised agency, rather than by uncritical compliance with externally imposed curricula or norms.
 
 Growing up, I was a "mediocre" learner. Teachers assumed I wasn't working hard or wasn't smart. No one (including myself) questioned whether maybe I just needed different tools or different ways to learn.
 
@@ -13,8 +14,8 @@ This library is for people who never seemed to click with prescribed and enforce
   
 ......
   
-These are the meta-level stuff that's rarely taught explicitly and clearly but makes a huge difference. So I'm building this library. It's a place of frameworks, strategies, methods, and toolkits that help with self-education. This isn't a course. There's no curriculum, no path you have to follow. It's more like a real library: browse around, take what's useful, ignore the rest, and share what you learned if you want. 
+These are the meta-level stuff that's rarely taught explicitly and clearly but makes a huge difference. So I'm building this library. It's a place of accessible and actionable frameworks, methods, and toolkits that help with self-education. This isn't a course. There's no curriculum, no path you have to follow. It's more like a real library: browse around, take what's useful, ignore the rest, and share what you learned if you want. 
 
-I'm starting with what I know from my own experience in self-education, as well as research in human learning. But this only works if other people add what they've learned too. When you figure something out about learning, write it down. Not because you're an expert, but because explaining it helps you understand it better. That's how this library grows.
+I'm starting with what I learn from my own experience in self-education, as well as research in learning and teaching, psychology, cognition. But this only works if other people add what they've learned too. When you figure something out about learning, write it down. Not because you're an expert, but because explaining it helps you understand it better. That's how this library grows.
 
 _**No prerequisites. No tests. No obligations. No certificates or badges**. Just tools for curious people who want to learn on their own terms and who are willing to experiment_.
